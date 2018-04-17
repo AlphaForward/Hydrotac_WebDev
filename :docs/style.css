@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.imgcenter {
+	background-attachment: scroll;
+	background-color: #FFFFFF;
+	background-image: url(images/Artboard%201.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	align: center;
+}
